@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvccorsi" alt="jvccorsi" /></a> </p>
 
-- 💬 Me pergunte sobre:  **php, MariaDB, Python, Java, HTML, C.**
-
 - 📫 Como me achar: **jvccorsiferrera@hotmail.com**
 
-- ⚡ Fun fact **Eu programo desde os 11 anos!!**
+- ⚡ Fun fact: **Eu programo desde os 11 anos!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-victor-corsi-ferreira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-victor-corsi-ferreira/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jvccorsi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jvccorsi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/joao.corsi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/joao.corsi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-victor-corsi-ferreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão-victor-corsi-ferreira" height="30" width="40" /></a>
+<a href="https://fb.com/jvccorsi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jvccorsi" height="30" width="40" /></a>
+<a href="https://instagram.com/joao.corsi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joao.corsi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
