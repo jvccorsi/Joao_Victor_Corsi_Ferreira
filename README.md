@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvccorsi&show_icons=true&locale=en&layout=compact" alt="jvccorsi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvccorsi&show_icons=true&locale=en" alt="jvccorsi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvccorsi&show_icons=true&locale=pt-br&theme=radical" alt="jvccorsi" /></p>
