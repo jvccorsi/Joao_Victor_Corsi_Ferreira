@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o João Victor Corsi Ferreira!</h1>
-<h3 align="center">Atualmente estou cursando Sistemas de Informação na Universidade Estadual de Campinas (Unicamp). Estou no 4º Semestre. Além disso, realizei técnico em informática no Instituto Federal de São Paulo, em 2015.</h3>
+<h3 align="center">Atualmente estou cursando Sistemas de Informação na Universidade Estadual de Campinas (Unicamp). Estou no 4º Semestre. Além disso, realizei técnico em informática no Instituto Federal de São Paulo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvccorsi&label=Profile%20views&color=0e75b6&style=flat" alt="jvccorsi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvccorsi" alt="jvccorsi" /></a> </p>
 
-- 💬 Ask me about **php, MariaDB, Python, Java, HTML.**
+- 💬 Me pergunte sobre:  **php, MariaDB, Python, Java, HTML, C.**
 
-- 📫 How to reach me **jvccorsiferrera@hotmail.com**
+- 📫 Como me achar: **jvccorsiferrera@hotmail.com**
 
 - ⚡ Fun fact **Eu programo desde os 11 anos!!**
 
