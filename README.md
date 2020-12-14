@@ -7,7 +7,6 @@
 
 - 📫 Como me achar: **jvccorsiferrera@hotmail.com**
 
-- ⚡ Fun fact: **Eu programo desde os 11 anos!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
