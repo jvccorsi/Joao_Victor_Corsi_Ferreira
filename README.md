@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o João Victor Corsi Ferreira!</h1>
-<h3 align="center">Atualmente estou cursando Sistemas de Informação na Universidade Estadual de Campinas (Unicamp). Estou no 4º Semestre. Além disso, realizei técnico em informática no Instituto Federal de São Paulo.</h3>
+<h3 align="center">Atualmente estou cursando Sistemas de Informação na Universidade Estadual de Campinas (Unicamp). Estou no 5º Semestre. Além disso, sou estágiario na área de automação no banco Itaú.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvccorsi&label=Profile%20views&color=0e75b6&style=flat" alt="jvccorsi" /> </p>
 
